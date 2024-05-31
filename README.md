@@ -1,5 +1,5 @@
 
-# 3D Computer Graphics assignment ([Lab3](https://hackmd.io/@leon890820/HJN9ahXNj))
+# 3D Computer Graphics assignment ([Lab3](https://hackmd.io/@leon890820/HJN9ahXNj)): 3D Computer Graphics Pipeline
 ### Work requirements:
 1. There are many test data in the forder and many input commands in each test data. Please read the files and complete the following instructions. <br> `lab3E.in` is big data test. It will very slow when you run on windows. Thus I recommend that you run it on the Linux.
 1. I only use the function of drawing *points* in OpenGL (other functions such as line drawing cannot be used).
