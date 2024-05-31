@@ -97,40 +97,40 @@ Need to display the graphic in `display`.
 ./HW0 lab3A.in
 ```
 <p align="center">
-    <img src="https://github.com/ChenYingShan1114/3D_CG_pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3A-1.png">
-    <img src="https://github.com/ChenYingShan1114/3D_CG_pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3A-2.png">
+    <img src="https://github.com/ChenYingShan1114/3D_CG_Pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3A-1.png">
+    <img src="https://github.com/ChenYingShan1114/3D_CG_Pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3A-2.png">
 </p>
 
 ```
 ./HW0 lab3B.in
 ```
 <p align="center">
-    <img src="https://github.com/ChenYingShan1114/3D_CG_pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3B-1.png">
-    <img src="https://github.com/ChenYingShan1114/3D_CG_pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3B-2.png">
-    <img src="https://github.com/ChenYingShan1114/3D_CG_pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3B-3.png">
+    <img src="https://github.com/ChenYingShan1114/3D_CG_Pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3B-1.png">
+    <img src="https://github.com/ChenYingShan1114/3D_CG_Pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3B-2.png">
+    <img src="https://github.com/ChenYingShan1114/3D_CG_Pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3B-3.png">
 </p>
 
 ```
 ./HW0 lab3C.in
 ```
 <p align="center">
-    <img src="https://github.com/ChenYingShan1114/3D_CG_pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3C-1.png">
-    <img src="https://github.com/ChenYingShan1114/3D_CG_pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3C-2.png">
+    <img src="https://github.com/ChenYingShan1114/3D_CG_Pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3C-1.png">
+    <img src="https://github.com/ChenYingShan1114/3D_CG_Pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3C-2.png">
 </p>
 
 ```
 ./HW0 lab3D.in
 ```
 <p align="center">
-    <img src="https://github.com/ChenYingShan1114/3D_CG_pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3D.png">
+    <img src="https://github.com/ChenYingShan1114/3D_CG_Pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3D.png">
 </p>
 
 ```
 ./HW0 lab3E.in
 ```
 <p align="center">
-    <img src="https://github.com/ChenYingShan1114/3D_CG_pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3E-1.png">
-    <img src="https://github.com/ChenYingShan1114/3D_CG_pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3E-2.png">
+    <img src="https://github.com/ChenYingShan1114/3D_CG_Pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3E-1.png">
+    <img src="https://github.com/ChenYingShan1114/3D_CG_Pipeline/blob/155b54b971c03553133235f34b663e29bf537546/figure/lab3E-2.png">
 </p>
 
 ## Libraries
